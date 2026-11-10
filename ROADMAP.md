@@ -2,8 +2,8 @@
 
 ## Phase 1 — Database Core
 
-- [ ] Implement in-memory key-value storage.
-- [ ] Implement basic database operations.
+- [X] Implement in-memory key-value storage.
+- [X] Implement basic database operations.
 
 ## Phase 2 — Command Engine
 
