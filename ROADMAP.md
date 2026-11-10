@@ -7,9 +7,9 @@
 
 ## Phase 2 — Command Engine
 
-- [ ] Implement command parsing.
-- [ ] Implement command execution.
-- [ ] Handle invalid commands and arguments.
+- [X] Implement command parsing.
+- [X] Implement command execution.
+- [X] Handle invalid commands and arguments.
 
 ## Phase 3 — Communication Protocol
 
